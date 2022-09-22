@@ -1,7 +1,7 @@
 /*Ссылка на шрифты кроме основного 'https://fonts.googleapis.com/css?family=Farsan|Hind+Siliguri|Racing+Sans+One|Six+Caps|Space+Mono:700'*/
 @font-face {
     font-family: fac;
-    src: url(/FontsFree-Net-Minecraft-1.ttf);
+    src: url(FontsFree-Net-Minecraft-1.ttf);
 }
 body
 {
